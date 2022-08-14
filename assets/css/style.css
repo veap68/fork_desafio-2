@@ -57,6 +57,18 @@ body{
     background: rgb(127, 166, 185);
     color: #ddd;}
     
+#produc-1{
+    background-image: url("../imgs/product-1.jpg");
+}
+
+
+#produc-2{
+    background-image: url("../imgs/product-2.jpg");
+}
+
+#produc-3{
+    background-image: url("../imgs/product-3.jpg");
+}
 
 .produtos td{
     width: 50%;
