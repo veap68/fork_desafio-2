@@ -10,7 +10,7 @@ body{
     padding: 5em;
     font-size: 2em;
     background-image:
-     url("../imgs/Header-sang.jpg") ;
+     url("/assets/imgs/Header-sang.jpg") ;
     background-size: cover;
     background-position: center center;
     color: #ddd; 
@@ -57,7 +57,7 @@ body{
     background: rgb(127, 166, 185);
     color: #ddd;}
     
-#produc-1{
+/* #produc-1{
     background-image: url("../imgs/product-1.jpg");
 }
 
@@ -68,7 +68,7 @@ body{
 
 #produc-3{
     background-image: url("../imgs/product-3.jpg");
-}
+} */
 
 .produtos td{
     width: 50%;
