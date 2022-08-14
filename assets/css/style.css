@@ -10,7 +10,7 @@ body{
     padding: 5em;
     font-size: 2em;
     background-image:
-     url("/assets/imgs/Header-sang.jpg") ;
+     url("../imgs/Header-sang.jpg") ;
     background-size: cover;
     background-position: center center;
     color: #ddd; 
@@ -55,20 +55,8 @@ body{
 }
 .productos button:hover{
     background: rgb(127, 166, 185);
-    color: #ddd;}
-    
-/* #produc-1{
-    background-image: url("../imgs/product-1.jpg");
+    color: #ddd;
 }
-
-
-#produc-2{
-    background-image: url("../imgs/product-2.jpg");
-}
-
-#produc-3{
-    background-image: url("../imgs/product-3.jpg");
-} */
 
 .produtos td{
     width: 50%;
