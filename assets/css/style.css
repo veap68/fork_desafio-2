@@ -9,8 +9,7 @@ body{
      height: 3px;
     padding: 5em;
     font-size: 2em;
-    background-image:
-     url("../imgs/Header-sang.jpg") ;
+    background-image: url("/assets/imgs/Header-sang.jpg") ;
     background-size: cover;
     background-position: center center;
     color: #ddd; 
