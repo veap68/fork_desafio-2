@@ -10,7 +10,7 @@ body{
     padding: 5em;
     font-size: 2em;
     background-image:
-     url("/assets/imgs/Header-sang.jpg") ;
+     url("../imgs/Header-sang.jpg") ;
     background-size: cover;
     background-position: center center;
     color: #ddd; 
